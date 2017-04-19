@@ -1,4 +1,7 @@
-# test coverage for  [decompress-unzip (v4.0.1)](https://github.com/kevva/decompress-unzip#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-decompress-unzip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-decompress-unzip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-decompress-unzip.svg)](https://travis-ci.org/npmtest/node-npmtest-decompress-unzip)
+# npmtest-decompress-unzip
+
+#### basic test coverage for  [decompress-unzip (v4.0.1)](https://github.com/kevva/decompress-unzip#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-decompress-unzip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-decompress-unzip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-decompress-unzip.svg)](https://travis-ci.org/npmtest/node-npmtest-decompress-unzip)
+
 #### decompress zip plugin
 
 [![NPM](https://nodei.co/npm/decompress-unzip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/decompress-unzip)
